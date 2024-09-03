@@ -1,0 +1,22 @@
+{
+  "name": "custom-alert0",
+  "version": "1.0.22",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Build step not configured'",
+    "test": "echo 'No test specified' && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "A customizable React Native alert component with support for various styles, animations, and buttons.",
+  "keywords": [
+    "react-native",
+    "alert",
+    "modal",
+    "custom-alert",
+    "ui",
+    "component"
+  ]
+}

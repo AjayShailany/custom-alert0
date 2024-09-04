@@ -1,4 +1,4 @@
-##CustomAlert Package for React Native
+## CustomAlert Package for React Native
 
 A customizable and animated alert package for React Native, offering various alert types, flexible button configurations, and support for custom styles.
 

@@ -15,7 +15,7 @@ npm install custom-alert0
 yarn install custom-alert0
 
 
-and import 
+## import 
 
 import CustomAlert from 'custom-alert0'; 
 

@@ -21,7 +21,7 @@ import CustomAlert from 'custom-alert0';
 
 
 
-Here's a basic example of how to integrate the CustomAlert component into your React Native project:
+## Here's a basic example of how to integrate the CustomAlert component into your React Native project:
 
 
 

@@ -1,4 +1,4 @@
-CustomAlert Package for React Native
+##CustomAlert Package for React Native
 
 A customizable and animated alert package for React Native, offering various alert types, flexible button configurations, and support for custom styles.
 
@@ -22,6 +22,8 @@ import CustomAlert from 'custom-alert0';
 
 
 Here's a basic example of how to integrate the CustomAlert component into your React Native project:
+
+
 
 
 
@@ -66,6 +68,9 @@ const App = () => {
 };
 
 export default App;
+
+
+
 
 
 
